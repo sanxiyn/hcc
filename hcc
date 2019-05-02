@@ -1,0 +1,102 @@
+Historical country codes
+0.1
+
+In this first draft version of HCC(Historical Country Codes),
+Eastern Asia (as defined by UN M49) from 1865 to the present
+is investigated. 1865 is an arbitrary cutoff inspired by the
+formation of ITU(International Telecommunication Union), one
+of the oldest intergovernmental organizations in the world.
+
+Principles
+
+1. Codes consist of three alphabet letters followed by four
+numeric letters.
+2. Three alphabet letters respect ISO 3166 standard.
+3. Four numeric letters are intended to remind year numbers
+of Gregorian calendar.
+
+Current country codes
+
+ISO 3166 defines the following 8 codes for countries in Eastern
+Asia. Common names are used, hence South Korea, instead of Korea,
+Republic of. Same for North Korea and Taiwan.
+
+CHN China
+HKG Hong Kong
+JPN Japan
+KOR South Korea
+MAC Macao
+MNG Mongolia
+PRK North Korea
+TWN Taiwan
+
+Historical country codes (alphabet part)
+
+The following codes are proposed for historical countries in
+Eastern Asia.
+
+BEI Beiyang Government
+EDO Tokugawa Shogunate
+JSN Joseon
+MAN Manchukuo
+QIN Qing
+RYU Ryukyu Kingdom
+TBT Tibet
+
+Historical dates
+
+The following dates are of historical importance.
+
+1392-08-05 Coronation of Taejo
+1429       Unification of three kingdoms of Ryukyu
+1603-03-24 Tokugawa Ieyasu receives the title of Shogun
+1636-05-15 Proclaimation of Qing
+1842-08-29 Treaty of Nanking
+1867-11-09 Tokugawa Yoshinobu resigns
+1868-01-03 Meiji Restoration
+1879-03-27 Annexation of Ryukyu by Japan
+1887-12-01 Sino-Portuguese treaty of Peking
+1897-10-12 Proclaimation of Korean Empire
+1910-08-22 Japan-Korea annexation treaty
+1912-01-01 Proclaimation of Republic of China
+1912-02-12 Abdication of Puyi
+1912-03-10 Presidential inauguration of Yuan Shikai
+1912-08-12 Three point agreement between the Chinese and Tibetans
+1924-11-26 Establishment of Mongolia
+1928-12-29 Northeast Flag Replacement
+1932-02-18 Proclaimation of Manchukuo
+1945-08-15 Surrender of Japan
+1945-08-18 Dissolution of Manchukuo
+1948-08-15 Establishment of South Korea
+1948-09-09 Establishment of North Korea
+1949-10-01 Proclaimation of People's Republic of China
+1949-12-07 Republic of China retreat to Taiwan
+1951-05-23 Seventeen point agreement for Tibet
+1952-04-28 Treaty of San Francisco
+1997-06-30 Handover of Hong Kong
+1999-12-20 Transfer of sovereignty over Macao
+
+Historical country codes (full)
+
+Based on above information, the following codes are proposed.
+
+BEI1912 Beiyang Government (~1928)
+CHN1912 Republic of China (~1949)
+CHN1949 China
+EDO1603 Tokugawa Shogunate (~1867)
+HKG1842 British Hong Kong (~1997)
+HKG1997 Hong Kong
+JPN1868 Empire of Japan (~1945)
+JPN1952 Japan
+JSN1392 Joseon (~1897)
+JSN1897 Korean Empire (~1910)
+KOR1948 South Korea
+MAC1887 Portuguese Macau (~1999)
+MAC1999 Macao
+MAN1932 Manchukuo (~1945)
+MNG1924 Mongolia
+PRK1948 North Korea
+QIN1636 Qing (~1912)
+RYU1429 Ryukyu Kingdom (~1879)
+TBT1912 Tibet (~1951)
+TWN1949 Taiwan
