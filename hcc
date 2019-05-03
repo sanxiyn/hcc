@@ -15,6 +15,13 @@ numeric letters.
 3. Four numeric letters are intended to remind year numbers
 of proleptic Gregorian calendar.
 
+Criteria
+
+1. For now, historical entities lasting less than 10 years,
+such as temporary wartime occupations, are excluded for
+simplification. Entities considered are added to TODO file
+for later work.
+
 Current country codes
 
 ISO 3166 defines the following 8 codes for countries in Eastern
