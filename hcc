@@ -13,7 +13,7 @@ Principles
 numeric letters.
 2. Three alphabet letters respect ISO 3166 standard.
 3. Four numeric letters are intended to remind year numbers
-of Gregorian calendar.
+of proleptic Gregorian calendar.
 
 Current country codes
 
